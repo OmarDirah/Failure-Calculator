@@ -1,3 +1,6 @@
+# Omar Dirhaoui 129/2025
+# Version 1.01
+# Probabilty of failure calculator 
 def calculate_failure_probability(success_probability, attempts):
     """
     Calculate the probability of failing all attempts.
